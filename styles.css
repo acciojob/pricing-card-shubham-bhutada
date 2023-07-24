@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+*{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+section {
+	width: 350px;
+	height: 600px;
+	padding: 50px;
+	background-color: rgba(0, 0, 0, 0.1);
+}
+img {
+	position: relative;
+	width: 300px;
+}
+h1 {
+	font-size: 50px;
+}
+h3 {
+	font-size: 30px;
+	font-weight: lighter;
+}
+p {
+	width: 250px;
+/* 	text-align: center; */
+	padding-left: 50px;
+	font-size: 30px
+}
+button {
+	width: 130px;
+	height: 45px;
+	margin-top: 20px;
+	background-color: rgba(255, 0, 0, 0.6);
+	border: none;
+	font-size: 25px;
+	color: white;
+	font-weight: 600;
+	border-radius: 15px
+	
+}
